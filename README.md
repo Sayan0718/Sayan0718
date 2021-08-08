@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sayan0718
 - 👀 I’m interested in learning different programming languages
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and Python
 
 
 <!---
